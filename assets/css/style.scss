@@ -5,8 +5,14 @@
 
 #header_wrap {
   display: none !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
 #footer_wrap {
   display: none !important;
+}
+
+body {
+  border-top: none !important;
 }
