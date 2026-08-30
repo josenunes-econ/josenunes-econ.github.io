@@ -11,4 +11,5 @@ Intern at ERSE (Energy Services Regulatory Authority)
 
 ---
 
-Welcome to my website! I am an intern at ERSE (Energy Services Regulatory Authority). Here you can find my projects. My interests are in regulatory and industrial economics, and applied data analysis.
+Welcome to my website! I am an intern at ERSE (Energy Services Regulatory Authority).
+Here you can find my projects. My interests are in regulatory and industrial economics, and applied data analysis.
