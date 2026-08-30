@@ -9,7 +9,7 @@ BSc in Economics at Nova School of Business and Economics
 
 ---
 
-Welcome to my website! I am currently an intern at ERSE (Energy Services Regulatory Authority). My interests are in regulatory and industrial economics, and applied data analysis. Here you can find my projects.
+Welcome to my website! I am currently an intern at ERSE (Energy Services Regulatory Authority). My interests are in industrial organization, competition, economic regulation, and applied data analysis. Here you can find my projects.
 
 ---
 
