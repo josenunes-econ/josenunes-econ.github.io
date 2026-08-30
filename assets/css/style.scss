@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-  display: none;
+  display: none !important;
 }
