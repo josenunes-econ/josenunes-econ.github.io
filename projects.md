@@ -13,16 +13,24 @@ Intern at ERSE (Entidade Reguladora dos Serviços Energéticos)
 
 # Projects
 
-### ICT Regulations and Mathematics Achievement (PISA 2022)
-Analysis of the relationship between ICT access/regulation and math performance, using OECD PISA 2022 data.
-[View repository →](#)
+### [ICT Regulations and Mathematics Achievement (PISA 2022)](/PISA_ICT_Math.pdf)
+<details>
+<summary>Abstract</summary>
+Write 2-4 sentences here summarizing the research question, method, and main finding of this project.
+</details>
 
-### Innovation Gaps: Eastern vs Western EU
-Comparative analysis of innovation indicators across EU member states.
-[View repository →](#)
+---
 
-### Tuition Fee Reform Policy Recommendation
-Data-driven policy analysis on university tuition reform.
-[View repository →](#)
+### [Innovation Gaps: Eastern vs Western EU](/EU_Innovation_Gaps.pdf)
+<details>
+<summary>Abstract</summary>
+Write 2-4 sentences here summarizing the research question, method, and main finding of this project.
+</details>
 
-*More coming soon.*
+---
+
+### [Tuition Fee Reform Policy Recommendation](/Tuition_Fee_Reform.pdf)
+<details>
+<summary>Abstract</summary>
+Write 2-4 sentences here summarizing the research question, method, and main finding of this project.
+</details>
