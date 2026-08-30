@@ -2,6 +2,7 @@
 
 # José Nunes
 Intern at ERSE (Energy Services Regulatory Authority)
+<details markdown="1">
 BSc in Economics at Nova School of Business and Economics
 
 📧 [josepnunes3@gmail.com](mailto:josepnunes3@gmail.com) | [LinkedIn](https://linkedin.com/in/josepnunes/) | [CV](/Jose_Nunes_CV_2.pdf)
