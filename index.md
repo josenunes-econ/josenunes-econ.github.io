@@ -1,13 +1,19 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
   <img src="/profile.png" width="150" style="border-radius: 50%;" />
   <div>
     <h1 style="margin-bottom: 5px;">José Nunes</h1>
     <p style="margin: 5px 0;">Intern at ERSE – Energy Services Regulatory Authority</p>
+
     <p style="margin: 5px 0;">BSc in Economics, Nova School of Business and Economics</p>
-    <p style="margin: 5px 0;">📧 <a href="mailto:josepnunes3@gmail.com">josepnunes3@gmail.com</a> &nbsp;|&nbsp; 📍 Lisbon, Portugal</p>
-    <p style="margin: 15px 0 0 0;">
-      <a href="/Jose_Nunes_Curriculum_Vitae.pdf" style="display: inline-block; padding: 8px 16px; background-color: #2a6496; color: white; border-radius: 6px; text-decoration: none; margin-right: 10px;">📄 Curriculum Vitae</a>
-      <a href="https://linkedin.com/in/josepnunes/" style="display: inline-block; padding: 8px 16px; background-color: #2a6496; color: white; border-radius: 6px; text-decoration: none;">🔗 LinkedIn</a>
+
+    <p style="margin: 5px 0;"><i class="fa-solid fa-envelope"></i> <a href="mailto:josepnunes3@gmail.com">josepnunes3@gmail.com</a></p>
+    <p style="margin: 5px 0;"><i class="fa-solid fa-location-dot"></i> Lisbon, Portugal</p>
+
+    <p style="margin: 20px 0 0 0;">
+      <a href="/Jose_Nunes_Curriculum_Vitae.pdf" style="margin-right: 30px; text-decoration: none; color: #2a6496;"><i class="fa-solid fa-file-pdf"></i> Curriculum Vitae</a>
+      <a href="https://linkedin.com/in/josepnunes/" style="text-decoration: none; color: #2a6496;"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
     </p>
   </div>
 </div>
