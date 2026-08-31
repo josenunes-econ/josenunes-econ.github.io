@@ -20,7 +20,7 @@
 
 ---
 
-<p style="font-size: 18px;">Welcome! I am an intern at the Energy Services Regulatory Authority (ERSE) with interests in industrial organization, competition policy, macroeconomics, and banking. Explore my site to see my latest projects.</p>
+<p style="font-size: 18px;">Welcome! I am an intern at the Energy Services Regulatory Authority (ERSE) with interests in industrial organization, competition policy, macroeconomics, and banking.</p>
 
 ---
 
