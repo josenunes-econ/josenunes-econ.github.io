@@ -39,7 +39,7 @@ My contribution: responsible for the results and R code (including all graphs). 
 <details markdown="1">
 <summary>Abstract</summary>
 
-This study investigates the extent to which socioeconomic and structural factors explain differences in innovation performance between Eastern and Western EU member states. Using patent applications to the European Patent Office in 2017 as a proxy for innovation output, the analysis applies a series of OLS regression models incorporating population, R&D expenditure, education levels, and unemployment as explanatory variables, alongside an East-West regional indicator. The results show that while these socioeconomic and structural factors do help explain patenting activity, a substantial and statistically significant gap between Eastern and Western EU countries persists even after controlling for them — suggesting that structural or institutional differences not captured by these variables continue to drive the divide in innovation output.
+This study investigates the extent to which socioeconomic and structural factors explain differences in innovation performance between Eastern and Western EU member states. Using patent applications to the European Patent Office in 2017 as a proxy for innovation output, the analysis applies a series of OLS regression models incorporating population, R&D expenditure, education levels, and unemployment as explanatory variables, alongside an East-West regional indicator. The results show that while these socioeconomic and structural factors do help explain patenting activity, a substantial and statistically significant gap between Eastern and Western EU countries persists even after controlling for them, suggesting that structural or institutional differences not captured by these variables continue to drive the divide in innovation output.
 
 My contribution: responsible for the results, robustness checks, and R code (including all graphs). Grade: 18/20
 </details>
@@ -48,7 +48,7 @@ My contribution: responsible for the results, robustness checks, and R code (inc
 <details markdown="1">
 <summary>Abstract</summary>
 
-Evaluating Germany's tuition reforms as a natural experiment, this paper examines the economic and distributional impacts of higher university fees. The evidence reveals significant drops in enrollment and shifts in application behavior. Applying public economic theory — efficiency, price elasticity, and equity — the study demonstrates that higher fees yield substantial social costs, making a strong case for public funding to preserve access and capture broader human capital externalities.
+Evaluating Germany's tuition reforms as a natural experiment, this paper examines the economic and distributional impacts of higher university fees. The evidence reveals significant drops in enrollment and shifts in application behavior. Applying public economic theory, including efficiency, price elasticity, and equity, the study demonstrates that higher fees yield substantial social costs, making a strong case for public funding to preserve access and capture broader human capital externalities.
 
 Grade: 18/20
 </details>
