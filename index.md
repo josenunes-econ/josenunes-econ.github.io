@@ -4,7 +4,7 @@
     <h1 style="margin-bottom: 5px;">José Nunes</h1>
     <p style="margin: 5px 0;">Intern at ERSE – Energy Services Regulatory Authority</p>
     <p style="margin: 5px 0;">BSc in Economics, Nova School of Business and Economics</p>
-    <p style="margin: 5px 0;">📧 josepnunes3@gmail.com &nbsp;|&nbsp; 📍 Lisbon, Portugal</p>
+    <p style="margin: 5px 0;">📧 <a href="mailto:josepnunes3@gmail.com">josepnunes3@gmail.com</a> &nbsp;|&nbsp; 📍 Lisbon, Portugal</p>
   </div>
 </div>
 
@@ -13,6 +13,7 @@
 Welcome! I am an intern at the Energy Services Regulatory Authority (ERSE) with interests in industrial organization, competition and economic regulation, macroeconomics, and banking. Explore my site to see my latest projects.
 
 <span style="border: 1px solid #ccc; padding: 5px 10px;">[Curriculum Vitae](/Jose_Nunes_Curriculum_Vitae.pdf)</span> <span style="border: 1px solid #ccc; padding: 5px 10px;">[LinkedIn](https://linkedin.com/in/josepnunes/)</span>
+
 
 ---
 
