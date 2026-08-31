@@ -10,7 +10,7 @@
 
 ---
 
-Welcome! I am an intern at the Energy Services Regulatory Authority (ERSE) with interests in industrial organization, competition and economic regulation, macroeconomics, and banking. Explore my site to see my latest projects.
+Welcome! I am an intern at the Energy Services Regulatory Authority (ERSE) with interests in industrial organization, competition policy, macroeconomics, and banking. Explore my site to see my latest projects.
 
 <span style="border: 1px solid #ccc; padding: 5px 10px;">[Curriculum Vitae](/Jose_Nunes_Curriculum_Vitae.pdf)</span> <span style="border: 1px solid #ccc; padding: 5px 10px;">[LinkedIn](https://linkedin.com/in/josepnunes/)</span>
 
