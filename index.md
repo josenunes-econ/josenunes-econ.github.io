@@ -9,7 +9,7 @@ BSc in Economics, Nova School of Business and Economics
 
 ---
 
-Welcome! I am an intern at the Energy Services Regulatory Authority (ERSE) with research interests in industrial organization, competition and economic regulation, macroeconomics, and banking. Explore my site to see my latest projects.
+Welcome! I am an intern at the Energy Services Regulatory Authority (ERSE) with interests in industrial organization, competition and economic regulation, macroeconomics, and banking. Explore my site to see my latest projects.
 
 ---
 
