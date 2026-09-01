@@ -12,7 +12,7 @@
     <p style="margin: 5px 0; font-size: 15px;"><i class="fa-solid fa-location-dot"></i> Lisbon, Portugal</p>
 
     <p style="margin: 20px 0 0 0; font-size: 15px;">
-      <a href="/Jose_Nunes_Curriculum_Vitae.pdf" style="margin-right: 30px; text-decoration: none; color: #2a6496;"><i class="fa-solid fa-file-pdf"></i> Curriculum Vitae</a>
+      <a href="/Jose_Nunes.pdf" style="margin-right: 30px; text-decoration: none; color: #2a6496;"><i class="fa-solid fa-file-pdf"></i> Curriculum Vitae</a>
       <a href="https://linkedin.com/in/josepnunes/" style="text-decoration: none; color: #2a6496;"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
     </p>
   </div>
