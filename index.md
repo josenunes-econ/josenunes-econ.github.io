@@ -20,7 +20,7 @@
 
 ---
 
-<p style="font-size: 18px;">Welcome! I am an intern at the Energy Services Regulatory Authority (ERSE) with interests in industrial organization, economic regulation & competition policy, microeconomics, and game theory.</p>
+<p style="font-size: 18px;">Welcome! I am an intern at the Portuguese Energy Sector Regulator (ERSE) with interests in development economics, public policy, industrial organization, and economic regulation.</p>
 
 ---
 
