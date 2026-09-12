@@ -1,105 +1,28 @@
-<style>
-  .profile-wrapper {
-    margin-left: -35px;
-    margin-bottom: 55px;
-  }
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-  /* CV / LinkedIn */
-  .profile-links {
-    font-size: 18px;
-    margin-bottom: 28px;
-  }
+<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
+  <img src="/profile.png" width="150" style="border-radius: 50%;" />
+  <div>
+    <h1 style="margin-bottom: 5px;">José Nunes</h1>
+    <p style="margin: 5px 0; font-size: 18px;">Intern at ERSE – Energy Services Regulatory Authority</p>
 
-  .profile-links a {
-    color: #2a6496;
-    text-decoration: none;
-    margin-right: 28px;
-  }
+    <p style="margin: 5px 0; font-size: 18px;">BSc in Economics, Nova School of Business and Economics</p>
 
-  .profile-links a:hover {
-    text-decoration: underline;
-  }
+    <p style="margin: 5px 0; font-size: 15px;"><i class="fa-solid fa-envelope"></i> <a href="mailto:josepnunes3@gmail.com">josepnunes3@gmail.com</a></p>
+    <p style="margin: 5px 0; font-size: 15px;"><i class="fa-solid fa-location-dot"></i> Lisbon, Portugal</p>
 
-  /* Photo + information */
-  .profile {
-    display: flex;
-    align-items: flex-start;
-    gap: 40px;
-  }
-
-  .profile-photo {
-    width: 240px;
-    height: 300px;
-    object-fit: cover;
-    border-radius: 8px;
-    flex-shrink: 0;
-  }
-
-  .profile-info {
-    flex: 1;
-    padding-top: 0;
-  }
-
-  .profile-info h1 {
-    margin: 0 0 12px 0;
-  }
-
-  .degree {
-    margin: 0 0 22px 0;
-    font-size: 20px;
-    white-space: nowrap;
-  }
-
-  .description {
-    margin: 0;
-    max-width: 720px;
-    font-size: 18px;
-    line-height: 1.55;
-  }
-
-  @media (max-width: 850px) {
-    .profile-wrapper {
-      margin-left: 0;
-    }
-
-    .profile {
-      flex-direction: column;
-    }
-
-    .degree {
-      white-space: normal;
-    }
-  }
-</style>
-
-
-<div class="profile-wrapper">
-
-  <div class="profile-links">
-    <a href="/Jose_Nunes.pdf">CV</a>
-    <a href="https://linkedin.com/in/josepnunes/" target="_blank">LinkedIn</a>
+    <p style="margin: 20px 0 0 0; font-size: 15px;">
+      <a href="/Jose_Nunes.pdf" style="margin-right: 30px; text-decoration: none; color: #2a6496;"><i class="fa-solid fa-file-pdf"></i> Curriculum Vitae</a>
+      <a href="https://linkedin.com/in/josepnunes/" style="text-decoration: none; color: #2a6496;"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+    </p>
   </div>
+</div>
 
-  <div class="profile">
+---
 
-    <img src="/profile.png" class="profile-photo">
+<p style="font-size: 18px;">Welcome! I am an intern at the Portuguese Energy Sector Regulator (ERSE) with interests in development economics, public policy, industrial organization, and economic regulation.</p>
 
-    <div class="profile-info">
-
-      <h1>José Nunes</h1>
-
-      <p class="degree">
-        BSc in Economics, Nova School of Business and Economics
-      </p>
-
-      <p class="description">
-        I am an intern at the Portuguese Energy Sector Regulator (ERSE)
-        with interests in development economics, public policy, industrial
-        organization, and economic regulation.
-      </p>
-
-    </div>
-    ---
+---
 
 # Projects
 
@@ -125,11 +48,7 @@ My contribution: responsible for the results, robustness checks, and R code (inc
 <details markdown="1">
 <summary>Abstract</summary>
 
-Evaluating Germany's tuition reforms as a natural experiment, this paper examines the economic and distributional impacts of higher university fees. The evidence reveals significant drops in enrollment and shifts in application behavior. Applying public economic theory, including efficiency, price elasticity, and equity, the analysis demonstrates that higher fees yield substantial social costs, making a strong case for public funding to preserve access and capture broader human capital externalities.
+Evaluating Germany's tuition reforms as a natural experiment, this paper examines the economic and distributional impacts of higher university fees. The evidence reveals significant drops in enrollment and shifts in application behavior. Applying public economic theory, including efficiency, price elasticity, and equity, the study demonstrates that higher fees yield substantial social costs, making a strong case for public funding to preserve access and capture broader human capital externalities.
 
 Grade: 18/20
 </details>
-
-  </div>
-
-</div>
