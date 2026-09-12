@@ -4,7 +4,7 @@
   <img src="/profile.png" width="150" style="border-radius: 50%;" />
   <div>
     <h1 style="margin-bottom: 5px;">José Nunes</h1>
-    <p style="margin: 5px 0; font-size: 18px;">Intern at ERSE – Energy Services Regulatory Authority</p>
+  
 
     <p style="margin: 5px 0; font-size: 18px;">BSc in Economics, Nova School of Business and Economics</p>
 
