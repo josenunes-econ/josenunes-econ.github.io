@@ -5,8 +5,6 @@
 
     <p style="margin: 5px 0; font-size: 18px;">BSc in Economics, Nova School of Business and Economics</p>
 
-    <p style="margin: 5px 0; font-size: 15px;">Lisbon, Portugal</p>
-
     <p style="margin: 20px 0 0 0; font-size: 15px;">
       <a href="mailto:josepnunes3@gmail.com" style="margin-right: 25px; text-decoration: none; color: #2a6496;">josepnunes3@gmail.com</a>
       <a href="/Jose_Nunes.pdf" style="margin-right: 25px; text-decoration: none; color: #2a6496;">Curriculum Vitae</a>
