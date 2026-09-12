@@ -1,38 +1,35 @@
 <style>
-  /* Move the content slightly further left and give it more room */
-  .home-container {
-    position: relative;
-    left: -40px;
-    width: calc(100% + 80px);
+  .profile-wrapper {
+    margin-left: -35px;
+    margin-bottom: 55px;
   }
 
-  /* CV + LinkedIn — clean text like Andre Gray */
-  .top-links {
-    font-size: 16px;
-    margin: 0 0 25px 0;
+  /* CV / LinkedIn */
+  .profile-links {
+    font-size: 18px;
+    margin-bottom: 28px;
   }
 
-  .top-links a {
+  .profile-links a {
     color: #2a6496;
     text-decoration: none;
     margin-right: 28px;
   }
 
-  .top-links a:hover {
+  .profile-links a:hover {
     text-decoration: underline;
   }
 
-  /* Photo + profile information */
-  .profile-container {
+  /* Photo + information */
+  .profile {
     display: flex;
     align-items: flex-start;
     gap: 40px;
-    margin-bottom: 55px;
   }
 
   .profile-photo {
-    width: 270px;
-    height: 340px;
+    width: 240px;
+    height: 300px;
     object-fit: cover;
     border-radius: 8px;
     flex-shrink: 0;
@@ -40,73 +37,50 @@
 
   .profile-info {
     flex: 1;
-    min-width: 0;
     padding-top: 0;
   }
 
   .profile-info h1 {
     margin: 0 0 12px 0;
-    font-size: 38px;
   }
 
   .degree {
+    margin: 0 0 22px 0;
     font-size: 20px;
-    color: #555;
-    margin: 0 0 25px 0;
     white-space: nowrap;
   }
 
   .description {
-    font-size: 18px;
-    line-height: 1.65;
-    color: #555;
-    max-width: 700px;
     margin: 0;
-  }
-
-  /* Keep Projects clean and separate */
-  .projects-section {
-    border-top: 1px dashed #ccc;
-    padding-top: 25px;
+    max-width: 720px;
+    font-size: 18px;
+    line-height: 1.55;
   }
 
   @media (max-width: 850px) {
-    .home-container {
-      left: 0;
-      width: 100%;
+    .profile-wrapper {
+      margin-left: 0;
     }
 
-    .profile-container {
+    .profile {
       flex-direction: column;
-    }
-
-    .profile-photo {
-      width: 270px;
-      height: 340px;
     }
 
     .degree {
       white-space: normal;
     }
-
-    .description {
-      max-width: 100%;
-    }
   }
 </style>
 
 
-<div class="home-container">
+<div class="profile-wrapper">
 
-  <!-- CV + LinkedIn -->
-  <div class="top-links">
+  <div class="profile-links">
     <a href="/Jose_Nunes.pdf">CV</a>
     <a href="https://linkedin.com/in/josepnunes/" target="_blank">LinkedIn</a>
   </div>
 
-
-  <!-- Profile -->
-  <div class="profile-container">
+  <div class="profile">
 
     <img src="/profile.png" class="profile-photo">
 
@@ -125,11 +99,7 @@
       </p>
 
     </div>
-
-  </div>
-
-
-  <div class="projects-section">
+    ---
 
 # Projects
 
@@ -155,7 +125,7 @@ My contribution: responsible for the results, robustness checks, and R code (inc
 <details markdown="1">
 <summary>Abstract</summary>
 
-Evaluating Germany's tuition reforms as a natural experiment, this paper examines the economic and distributional impacts of higher university fees. The evidence reveals significant drops in enrollment and shifts in application behavior. Applying public economic theory, including efficiency, price elasticity, and equity, the study demonstrates that higher fees yield substantial social costs, making a strong case for public funding to preserve access and capture broader human capital externalities.
+Evaluating Germany's tuition reforms as a natural experiment, this paper examines the economic and distributional impacts of higher university fees. The evidence reveals significant drops in enrollment and shifts in application behavior. Applying public economic theory, including efficiency, price elasticity, and equity, the analysis demonstrates that higher fees yield substantial social costs, making a strong case for public funding to preserve access and capture broader human capital externalities.
 
 Grade: 18/20
 </details>
