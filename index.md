@@ -1,17 +1,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
-  <img src="/profile.png" width="150" style="border-radius: 50%;" />
+<div style="display: flex; align-items: center; gap: 35px; flex-wrap: wrap;">
+  <img src="/profile.png" width="180" style="border-radius: 8px; object-fit: cover;" />
   <div>
-    <h1 style="margin-bottom: 5px;">José Nunes</h1>
-    <p style="margin: 5px 0; font-size: 18px;">Intern at ERSE – Energy Services Regulatory Authority</p>
-
+    <h1 style="margin-bottom: 8px;">José Nunes</h1>
     <p style="margin: 5px 0; font-size: 18px;">BSc in Economics, Nova School of Business and Economics</p>
 
-    <p style="margin: 5px 0; font-size: 15px;"><i class="fa-solid fa-envelope"></i> <a href="mailto:josepnunes3@gmail.com">josepnunes3@gmail.com</a></p>
-    <p style="margin: 5px 0; font-size: 15px;"><i class="fa-solid fa-location-dot"></i> Lisbon, Portugal</p>
-
-    <p style="margin: 20px 0 0 0; font-size: 15px;">
+    <p style="margin: 15px 0 0 0; font-size: 15px;">
       <a href="/Jose_Nunes.pdf" style="margin-right: 30px; text-decoration: none; color: #2a6496;"><i class="fa-solid fa-file-pdf"></i> Curriculum Vitae</a>
       <a href="https://linkedin.com/in/josepnunes/" style="text-decoration: none; color: #2a6496;"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
     </p>
@@ -20,7 +15,7 @@
 
 ---
 
-<p style="font-size: 18px;">Welcome! I am an intern at the Portuguese Energy Sector Regulator (ERSE) with interests in development economics, public policy, industrial organization, and economic regulation.</p>
+<p style="font-size: 18px;">Welcome! I am interested in development economics, public policy, industrial organization, and economic regulation.</p>
 
 ---
 
