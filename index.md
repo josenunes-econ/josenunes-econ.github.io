@@ -39,7 +39,7 @@ This study investigates the extent to which socioeconomic and structural factors
 My contribution: responsible for the results, robustness checks, and R code (including all graphs). Grade: 18/20
 </details>
 
-### ["Tuition Fee Reform Policy Recommendation"](/Tuition_Fee_Reform.pdf)
+### ["Tuition Fee Reform: Policy Recommendation"](/Tuition_Fee_Reform.pdf)
 <details markdown="1">
 <summary>Abstract</summary>
 
